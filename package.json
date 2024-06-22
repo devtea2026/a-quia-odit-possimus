@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/a-quia-odit-possimus",
-  "version": "4.1.47",
+  "version": "4.2.47",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -675,5 +675,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/a-quia-odit-possimus/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
